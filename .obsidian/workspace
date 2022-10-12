@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "05004b9d86eefe60",
+    "type": "split",
+    "children": [
+      {
+        "id": "1202de30ed422443",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HTB/Machines/Ambassador.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49cacec72e3c4c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fd73d5ac0baf00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33bef29683b2f9a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2225d132d6fefd9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "649be26baaefe34f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "254bf888dc0169ee",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "704f873e7ab252c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6148f1ae7de53fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eff01e0337e8bda0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTB/Machines/Ambassador.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae9c36372e12f809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTB/Machines/Ambassador.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71c781e3990a61ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "674eeefdee909439",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTB/Machines/Ambassador.md"
+              }
+            }
+          },
+          {
+            "id": "249b89767798e3fb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca205c86aeb1708f",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef2a08c35fae174e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1202de30ed422443",
+  "lastOpenFiles": [
+    "THM/Jason.md",
+    "Website Links.md",
+    "Tools/Subdomain Enum.md",
+    "Tools/Responder.md",
+    "HTB/starting-point/Meow.md",
+    "HTB/Machines/Photobomb.md",
+    "images/Screenshot2022-10-09233801.png",
+    "images/ryankozak.com.png.md",
+    "Templates/Writeup - Template.md",
+    "HTB/Paths/Windows Fundamentals.md"
+  ]
+}

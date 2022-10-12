@@ -1,0 +1,4 @@
+- [.] Introduction To Academy
+- [.]  Operating System Fundamentals
+	- [.] [Linux Fundamentals](https://academy.hackthebox.com/module/details/18)
+	- [.] [Windows Fundamentals](https://academy.hackthebox.com/module/details/49)

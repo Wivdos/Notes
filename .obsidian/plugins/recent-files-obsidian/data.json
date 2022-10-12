@@ -1,0 +1,50 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Ambassador",
+      "path": "HTB/Machines/Ambassador.md"
+    },
+    {
+      "basename": "Jason",
+      "path": "THM/Jason.md"
+    },
+    {
+      "basename": "Website Links",
+      "path": "Website Links.md"
+    },
+    {
+      "basename": "Subdomain Enum",
+      "path": "Tools/Subdomain Enum.md"
+    },
+    {
+      "basename": "Responder",
+      "path": "Tools/Responder.md"
+    },
+    {
+      "basename": "Photobomb",
+      "path": "HTB/Machines/Photobomb.md"
+    },
+    {
+      "basename": "Screenshot2022-10-09233801",
+      "path": "images/Screenshot2022-10-09233801.png"
+    },
+    {
+      "basename": "Writeup - Template",
+      "path": "Templates/Writeup - Template.md"
+    },
+    {
+      "basename": "Windows Fundamentals",
+      "path": "HTB/Paths/Windows Fundamentals.md"
+    },
+    {
+      "basename": "Linux Fundamentals",
+      "path": "HTB/Paths/Linux Fundamentals.md"
+    },
+    {
+      "basename": "Completed",
+      "path": "HTB/Paths/Completed.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
