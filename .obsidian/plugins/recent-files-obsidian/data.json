@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Ambassador",
-      "path": "HTB/Machines/Ambassador.md"
+      "basename": "Pickle Rick",
+      "path": "THM/Pickle Rick.md"
     },
     {
       "basename": "Jason",
       "path": "THM/Jason.md"
+    },
+    {
+      "basename": "Linux PrivEsc",
+      "path": "THM/Linux PrivEsc.md"
+    },
+    {
+      "basename": "Ambassador",
+      "path": "HTB/Machines/Ambassador.md"
     },
     {
       "basename": "Website Links",

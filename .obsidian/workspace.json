@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d16cc64017b41a64",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "THM/Linux PrivEsc.md",
-            "mode": "source",
-            "source": false
+        "id": "9a57603d6a30918e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2019d48e8d2aef74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM/Pickle Rick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM/Linux PrivEsc.md",
+                "file": "THM/Pickle Rick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THM/Linux PrivEsc.md",
+                "file": "THM/Pickle Rick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THM/Linux PrivEsc.md"
+                "file": "THM/Pickle Rick.md"
               }
             }
           },
@@ -153,24 +161,28 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d16cc64017b41a64",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ca205c86aeb1708f",
   "lastOpenFiles": [
-    "HTB/Machines/Ambassador.md",
     "THM/Jason.md",
+    "THM/Pickle Rick.md",
+    "THM/Linux PrivEsc.md",
+    "HTB/Machines/Ambassador.md",
     "Website Links.md",
     "Tools/Subdomain Enum.md",
     "Tools/Responder.md",
     "HTB/starting-point/Meow.md",
     "HTB/Machines/Photobomb.md",
-    "images/Screenshot2022-10-09233801.png",
-    "images/ryankozak.com.png.md",
-    "Templates/Writeup - Template.md"
+    "images/Screenshot2022-10-09233801.png"
   ]
 }
